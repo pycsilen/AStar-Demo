@@ -1,0 +1,10 @@
+E:\AStar\AStar\bin\Debug\AStar.exe.config
+E:\AStar\AStar\bin\Debug\AStar.exe
+E:\AStar\AStar\bin\Debug\AStar.pdb
+E:\AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+E:\AStar\AStar\obj\Debug\AStar.MyBtn.resources
+E:\AStar\AStar\obj\Debug\AStar.Properties.Resources.resources
+E:\AStar\AStar\obj\Debug\AStar.csproj.GenerateResource.Cache
+E:\AStar\AStar\obj\Debug\AStar.exe
+E:\AStar\AStar\obj\Debug\AStar.pdb
+E:\AStar\AStar\obj\Debug\AStar.AStarCal.resources
